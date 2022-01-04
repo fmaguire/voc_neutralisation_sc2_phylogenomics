@@ -1,0 +1,31 @@
+sample	chr	pos	ref	alt	Consequence	gene	protein	aa
+KB-B-001	MN908947.3	174	G	T	upstream_gene_variant	orf1ab		NA
+KB-B-001	MN908947.3	241	C	T	upstream_gene_variant	orf1ab		NA
+KB-B-001	MN908947.3	872	G	A	missense_variant	orf1ab	D203N	orf1ab-D203N
+KB-B-001	MN908947.3	1059	C	T	missense_variant	orf1ab	T265I	orf1ab-T265I
+KB-B-001	MN908947.3	2997	C	T	missense_variant	orf1ab	S911F	orf1ab-S911F
+KB-B-001	MN908947.3	3037	C	T	synonymous_variant	orf1ab	F924F	orf1ab-F924F
+KB-B-001	MN908947.3	5230	G	T	missense_variant	orf1ab	K1655N	orf1ab-K1655N
+KB-B-001	MN908947.3	10323	A	G	missense_variant	orf1ab	K3353R	orf1ab-K3353R
+KB-B-001	MN908947.3	10332	C	T	missense_variant	orf1ab	T3356I	orf1ab-T3356I
+KB-B-001	MN908947.3	10533	G	T	missense_variant	orf1ab	C3423F	orf1ab-C3423F
+KB-B-001	MN908947.3	11287	GTCTGGTTTT	G	conservative_inframe_deletion	orf1ab	S3675_F3677del	orf1ab-S3675_F3677del
+KB-B-001	MN908947.3	14408	C	T	missense_variant	orf1ab	P4715L	orf1ab-P4715L
+KB-B-001	MN908947.3	17988	G	T	missense_variant	orf1ab	K5908N	orf1ab-K5908N
+KB-B-001	MN908947.3	17999	C	T	missense_variant	orf1ab	T5912I	orf1ab-T5912I
+KB-B-001	MN908947.3	21801	A	C	missense_variant	S	D80A	S-D80A
+KB-B-001	MN908947.3	22206	A	G	missense_variant	S	D215G	S-D215G
+KB-B-001	MN908947.3	22280	ACTTTACTTG	A	disruptive_inframe_deletion	S	L242_L244del	S-L242_L244del
+KB-B-001	MN908947.3	22813	G	T	missense_variant	S	K417N	S-K417N
+KB-B-001	MN908947.3	23012	G	A	missense_variant	S	E484K	S-E484K
+KB-B-001	MN908947.3	23063	A	T	missense_variant	S	N501Y	S-N501Y
+KB-B-001	MN908947.3	23403	A	G	missense_variant	S	D614G	S-D614G
+KB-B-001	MN908947.3	23664	C	T	missense_variant	S	A701V	S-A701V
+KB-B-001	MN908947.3	24197	G	T	missense_variant	S	A879S	S-A879S
+KB-B-001	MN908947.3	25207	C	T	synonymous_variant	S	Y1215Y	S-Y1215Y
+KB-B-001	MN908947.3	25563	G	T	missense_variant	ORF3a	Q57H	ORF3a-Q57H
+KB-B-001	MN908947.3	25904	C	T	missense_variant	ORF3a	S171L	ORF3a-S171L
+KB-B-001	MN908947.3	26456	C	T	missense_variant	E	P71L	E-P71L
+KB-B-001	MN908947.3	28245	T	G	missense_variant	ORF8	L118V	ORF8-L118V
+KB-B-001	MN908947.3	28251	TTCA	CTGTTC	frameshift_variant&missense_variant	ORF8	F120fs	ORF8-F120fs
+KB-B-001	MN908947.3	28887	C	T	missense_variant	N	T205I	N-T205I

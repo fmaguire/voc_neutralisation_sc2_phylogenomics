@@ -1,0 +1,271 @@
+taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+Wuhan/Hu-1/2019,B,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+Wuhan/WH01/2019,B,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/LIVE-DDA6C4/2021|2021-01-10|2021-01-25,A.23.1,,,A.23.1-like+E484K,1.000000,0.000000,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/Scotland/QEUH-10672A4/2021|2021-01-17|2021-02-03,B.1.36.37,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-112E92B/2021|2021-01-21|2021-02-04,B.1.1.317,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/QEUH-A0B9C4/2020|2020-10-01|2020-10-27,B.1.221,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMC-1179068/2021|2021-01-14|2021-02-15,B.1.1.487,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-2953A4D/2021|2021-11-04|2021-11-12,AY.4.2.2,,,Delta (AY.4.2-like),0.971400,0.000000,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 34; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/England/MILK-174A5F2/2021|2021-06-19|2021-06-28,AY.11,,,Delta (B.1.617.2-like),0.923100,0.000000,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/MA-CDC-STM-000045534/2021|2021-03-28|2021-04-13,Q.4,,,Alpha (B.1.1.7-like),0.913000,0.043500,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 21; Ref alleles 1; Amb alleles 0; Oth alleles 1
+hCoV-19/USA/TX-CDC-ASC210003988/2021|2021-03-11|2021-05-24,A.2.5,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/USA/GA-EHC-227U/2020|2020-04-30|2021-05-28,B.1.319,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/USA/MA-CDC-QDX26177990/2021|2021-06-23|2021-07-09,P.1.17,,,Gamma (P.1-like),0.875000,0.000000,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 14; Ref alleles 0; Amb alleles 0; Oth alleles 2
+hCoV-19/USA/CA-CDC-STM-000062190/2021|2021-04-23|2021-05-11,Q.3,,,Alpha (B.1.1.7-like),0.956500,0.043500,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/England/OXON-FA0CA5/2020|2020-11-19|2021-07-19,B.1.177.87,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/USA/CA-CDC-FG-040606/2021|2021-07-07|2021-07-20,A.2.5.2,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-1A616FF/2021|2021-07-29|2021-08-04,AY.4.2,,,Delta (AY.4.2-like),0.971400,0.000000,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 34; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/Wuhan/Hu-1/2019|2019-12-31|2020-01-12,B,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-973227/2020|2020-08-20|2020-10-08,B.1.258,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-C889EB/2020|2020-12-17|2021-01-04,B.1.36.1,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-119C533/2021|2021-01-27|2021-02-08,B.1.1.25,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/Wuhan/WH01/2019|2019-12-26|2020-01-30,B,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/USA/TX-CDC-ASC210083187/2021|2021-09-08|2021-10-08,AY.46.4,,,Delta (B.1.617.2-like),0.923100,0.076900,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/England/NOTT-1117D9/2020|2020-05-21|2020-06-06,B.1.1.1,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/BRIS-1253DE/2020|2020-03-27|2020-05-12,B.1.167,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-118B449/2021|2021-01-24|2021-02-08,B.1.36.31,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-CF159E/2020|2020-12-18|2021-01-08,B.1.1.216,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-17A7748/2021|2021-06-23|2021-07-02,AY.87,,,Delta (B.1.617.2-like),1.000000,0.000000,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/CAMC-14D5F79/2021|2021-04-05|2021-04-13,A.29,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMC-B34141/2020|2020-11-05|2020-11-25,B.1.408,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/USA/NY-CDC-ASC210005927/2021|2021-03-13|2021-04-12,B.1.619,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-11C98CB/2021|2021-01-31|2021-02-23,B.1.36.18,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/Scotland/CVR896/2020|2020-03-27|2020-05-12,B.1.1.10,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMB-7BC93/2020|2020-04-04|2020-05-12,A.2.2,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMB-7C403/2020|2020-04-05|2020-05-12,B.1.356,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/SHEF-C5DB5/2020|2020-04-16|2020-05-19,B.1.1.369,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/NORT-288D9E/2020|2020-03-22|2020-05-27,B.1.22,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/EXET-136E33/2020|2020-04-22|2020-06-23,A.2,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMB-1B4116/2020|2020-06-01|2020-06-23,B.1.1.121,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/LCST-24D6A47/2020|2020-06-04|2020-06-30,B.6,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/HECH-2599DEC/2020|2020-05-06|2020-07-03,B.1.439,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/Scotland/CVR3308/2020|2020-05-01|2020-07-21,B.1.1.372,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/LIVE-A58BA/2020|2020-03-20|2020-07-28,B.1.128,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/LOND-1260C41/2020|2020-03-18|2020-08-28,B.40,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/PORT-2D3972/2020|2020-04-17|2020-09-10,B.1.147,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/QEUH-9B9B0C/2020|2020-09-07|2020-09-28,A,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-908CA1/2020|2020-06-22|2020-09-28,B.1.251,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-99A3BE/2020|2020-08-29|2020-09-28,B.1.210,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-9AA05A/2020|2020-08-31|2020-09-28,B.1.9.5,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-9710C5/2020|2020-08-17|2020-09-28,B.1.36,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMC-949F9C/2020|2020-07-26|2020-09-28,B.1.505,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-804F61/2020|2020-07-16|2020-09-28,B.1.1.274,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-9CD7A7/2020|2020-09-15|2020-10-01,B.1.1.306,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-9733E8/2020|2020-08-19|2020-10-08,B.1.36.38,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-9FCEE6/2020|2020-10-01|2020-10-20,B.1.523,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/QEUH-9F5542/2020|2020-09-25|2020-10-20,B.1.1.329,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-A17DAB/2020|2020-10-01|2020-10-26,B.1.438,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-A8723E/2020|2020-10-14|2020-11-02,B.1.177,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMC-B0ABFB/2020|2020-10-29|2020-11-18,B.1.160,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-ACFE45/2020|2020-10-22|2020-11-23,B.1.1.28,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-B5C134/2020|2020-11-08|2020-11-25,B.1.36.7,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMB-73949/2020|2020-03-30|2020-04-14,B.1.350,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMC-B52453/2020|2020-11-08|2020-11-25,B.1.36.22,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/SHEF-CA1B4/2020|2020-04-01|2020-04-29,B.28,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMC-B7794A/2020|2020-11-11|2020-11-30,B.1.36.8,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMC-B0A469/2020|2020-10-29|2020-12-04,B.1.362,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-B89A06/2020|2020-11-13|2020-12-04,B.1.1.294,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-BA9A6A/2020|2020-11-17|2020-12-08,B.1.1.354,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/CAMC-BBBD99/2020|2020-11-21|2020-12-14,B.1.1.351,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/MILK-BDC49D/2020|2020-11-26|2020-12-17,B.1.480,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/Scotland/QEUH-BEAF22/2020|2020-12-04|2020-12-18,B.1.36.26,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/ALDP-C25E96/2020|2020-12-06|2021-01-08,B.1.1.417,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/QEUH-C1A68D/2020|2020-12-07|2021-01-11,C.16,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/TFCI-26FA9B7/2020|2020-12-31|2021-01-14,B.1.470,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+hCoV-19/England/NOTT-122178/2021|2021-01-02|2021-01-14,C.36,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
+KB-B-001,B.1.351,0.0,1.0,Beta (B.1.351-like),0.857100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 2
+KB-D-002,B.1.617.2,0.0,0.9997798811358133,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+KB-D-003,BA.1,0.0,0.9997798811358133,Omicron (BA.1-like),0.931000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 54; Ref alleles 0; Amb alleles 2; Oth alleles 2; scorpio replaced lineage assignment B.1.1.529
+hCoV-19/USA/MI-CDC-ASC210363938/2021|2021-10-14|2021-11-10,AY.116.1,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CO-CDC-2-4194872/2020|2020-12-17|2021-04-24,B.1.570,0.0,0.9997798811358133,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CO-CDC-2-4194788/2020|2020-12-17|2021-04-24,B.1.346,0.0,0.9997798811358133,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/OR-CDC-2-4195152/2020|2020-12-24|2021-04-24,B.1.240,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/OR-CDC-2-4194772/2020|2020-12-17|2021-04-24,B.1.587,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/ALDP-1B9F5EB/2021|2021-08-12|2021-08-20,AY.29,0.0,0.9920141969831411,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/AR-CDC-2-4012868/2021|2021-02-02|2021-03-23,B.1.577,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/Wales/CAMC-13B7257/2021|2021-03-06|2021-03-24,B.1.525,0.0,1.0,Eta (B.1.525-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 16; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/CAMC-139C4DA/2021|2021-03-08|2021-03-24,P.1.14,0.0,0.9318288669487541,Gamma (P.1-like),0.875000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 14; Ref alleles 0; Amb alleles 0; Oth alleles 2
+hCoV-19/USA/OH-CDC-QDX22758838/2021|2021-03-07|2021-03-24,B.1.1.291,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/MILK-2F07004/2021|2021-12-16|2021-12-24,AY.111,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/BRBR-2C302B4/2021|2021-11-26|2021-12-05,AY.21,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/DC-CDC-LC0049228/2021|2021-04-14|2021-04-29,B.1,0.0,0.9684449489216799,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/Scotland/QEUH-15293A6/2021|2021-04-21|2021-05-03,B.1.617.1,0.0,1.0,B.1.617.1-like,1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-166AF1D/2021|2021-06-09|2021-06-16,AY.9,0.0,0.9606587374199451,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/PHEP-YYB5ET7/2021|2021-11-02|2021-11-15,AY.78,0.0,0.9597069597069597,Delta (B.1.617.2-like),0.846200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 2; Oth alleles 0
+hCoV-19/England/PHEC-1B4F7/2020|2020-04-02|2021-06-30,B.4,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/PHEC-30418E/2021|2021|2021-06-30,B.1.351.5,0.0,0.9960229783473266,Beta (B.1.351-like),0.857100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 2; Oth alleles 0
+hCoV-19/England/PHEC-3066BA/2021|2021|2021-06-30,B.1.351.2,0.0,0.8952103087770484,Beta (B.1.351-like),0.714300,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 10; Ref alleles 0; Amb alleles 3; Oth alleles 1
+hCoV-19/USA/FL-CDC-STM-000728974/2021|2021-09-07|2021-11-16,AY.47,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/PHEC-L307L4A0/2021|2021|2021-06-30,AY.40,0.0,0.9834451901565996,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/MD-CDC-ASC210000603/2021|2021-03-02|2021-04-01,B.1.568,0.0,0.9975733509816899,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/MS-CDC-2-4058177/2021|2021-03-05|2021-04-01,B.1.1.434,0.0,0.9997798811358133,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-FG-010935/2021|2021-03-19|2021-04-02,B.1.429,0.0,0.9951348960636887,Epsilon (B.1.429-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 14; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/FL-CDC-FG-011536/2021|2021-03-08|2021-04-02,B.1.1.416,0.0,0.9929078014184397,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-FG-012812/2021|2021-03-22|2021-04-02,B.1.564.1,0.0,0.9929078014184397,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/NH-CDC-LC0031624/2021|2021-03-15|2021-04-02,B.1.596,0.0,0.9183527731492502,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/TFCI-26FCAD0/2020|2020-12-16|2021-04-05,B.1.416,0.0,0.969147005444646,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/CAMC-144B71C/2021|2021-03-23|2021-04-08,AZ.1,0.0,0.982078853046595,B.1.1.318-like,0.842100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 16; Ref alleles 0; Amb alleles 0; Oth alleles 3
+hCoV-19/USA/ID-CDC-IBX649302214488/2021|2021-03-18|2021-04-08,B.1.561,0.0,0.9949126299491263,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/IL-CDC-ASC210012511/2021|2021-03-19|2021-04-08,P.2,0.0,0.9859406382503906,Zeta (P.2-like),0.857100,0.142900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 6; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/PA-CDC-LC0033712/2021|2021-03-18|2021-04-08,B.1.111,0.0,0.9432558139534883,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/TX-CDC-LC0034652/2021|2021-03-19|2021-04-08,B.1.2,0.0,0.9997798811358133,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-LC0159150/2021|2021-07-31|2021-08-23,AY.1,0.0,1.0,Delta (B.1.617.2-like) +K417N,1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CA-CDC-FG-019269/2021|2021-04-01|2021-04-15,B.1.1.368,0.0,0.9929078014184397,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/NJ-CDC-LC0035859/2021|2021-03-26|2021-04-15,B.1.575,0.0,0.9447282861124013,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/VA-CDC-LC0050580/2021|2021-04-21|2021-05-06,Q.8,0.0,0.9447282861124013,Alpha (B.1.1.7-like),0.782600,0.043500,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 18; Ref alleles 1; Amb alleles 4; Oth alleles 0
+hCoV-19/England/PORT-1E7C6A2/2020|2020-12-05|2021-05-10,AS.1,0.0,0.9872966347225317,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-FG-081499/2021|2021-08-16|2021-08-24,AY.59,0.0,0.9147360878910915,Delta (B.1.617.2-like),0.846200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 2; Oth alleles 0
+hCoV-19/USA/MN-CDC-IBX747800485760/2021|2021-04-20|2021-05-13,AY.48,0.0,0.9848078641644326,Delta (B.1.617.2-like),0.846200,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 1; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/CA-CDC-ASC210061368/2021|2021-05-07|2021-05-20,B.1.427,0.0,1.0,Epsilon (B.1.427-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/NY-CDC-LC0177186/2021|2021-08-06|2021-08-27,AY.26,0.0,0.9774977497749775,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/FL-CDC-ASC210001341/2021|2021-03-04|2021-05-24,B.1.1.348,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-ASC210278157/2021|2021-08-07|2021-08-27,C.37,0.0,1.0,Lambda (C.37-like),0.894700,0.052600,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 17; Ref alleles 1; Amb alleles 0; Oth alleles 1
+hCoV-19/USA/NC-CDC-LC0193231/2021|2021-08-11|2021-08-27,C.36.3,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/PHEC-3L049L3B/2021|2021-10-13|2021-10-25,A.1,0.0,0.9813943062093701,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/MILK-1C53694/2021|2021-08-19|2021-08-29,AY.43,0.0,0.9050602409638554,Delta (AY.4-like),0.875000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 28; Ref alleles 0; Amb alleles 4; Oth alleles 0
+hCoV-19/USA/GA-EHC-264F/2020|2020-05-09|2021-05-28,A.3,0.0,0.9997798811358133,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-ASC210245698/2021|2021-07-25|2021-08-31,AY.54,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/FL-CDC-ASC210231292/2021|2021-07-27|2021-09-01,AY.68,0.0,0.9575590731819225,Delta (B.1.617.2-like),0.846200,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 1; Amb alleles 1; Oth alleles 0
+hCoV-19/Scotland/MILK-1DEC27D/2021|2021-09-07|2021-09-15,AY.121,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/PHEC-33F5CA/2021|2021|2021-08-09,AY.42,0.0,0.8997578692493947,Delta (AY.4-like),0.843800,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 27; Ref alleles 0; Amb alleles 5; Oth alleles 0
+hCoV-19/USA/FL-CDC-ASC210110661/2021|2021-06-21|2021-09-21,B.1.621,0.0,0.9917905480363879,Mu (B.1.621-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 27; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/SC-CDC-LC0217643/2021|2021-08-24|2021-09-16,AY.103,0.0,0.9635036496350365,Delta (B.1.617.2-like),0.846200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 2; Oth alleles 0
+hCoV-19/USA/MN-CDC-IBX499014803900/2021|2021-08-27|2021-09-16,AY.37,0.0,0.9949126299491263,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/IL-CDC-ASC210039701/2021|2021-03-31|2021-09-21,B.1.1.222,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/GA-CDC-MMB09561429/2021|2021-08-03|2021-09-17,AY.44,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/VA-CDC-ASC210240709/2021|2021-07-21|2021-09-21,AY.114,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-19C002E/2021|2021-07-21|2021-07-27,AY.61,0.0,0.9962447537000221,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/MI-CDC-ASC210063133/2021|2021-05-13|2021-09-21,B.1.637,0.0,0.9866190900981266,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CO-CDC-FG-029146/2021|2021-04-23|2021-09-21,B.1.526,0.0,0.9951348960636887,Iota (B.1.526-like),0.826100,0.173900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 19; Ref alleles 4; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/FL-CDC-STM-000705666/2021|2021-07-02|2021-11-18,AY.35,0.0,0.9902222222222222,Delta (B.1.617.2-like),0.846200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 2; Oth alleles 0
+hCoV-19/USA/GA-CDC-STM-000718937/2021|2021-08-07|2021-11-18,AY.108,0.0,0.9653916211293261,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/FL-CDC-STM-000715766/2021|2021-08-01|2021-11-18,B.1.621.1,0.0,1.0,Mu (B.1.621-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 27; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CA-CDC-FG-167918/2021|2021-11-10|2021-11-19,AY.93,0.0,0.9997798811358133,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/NJ-CDC-ASC210385070/2021|2021-11-01|2021-11-20,AY.122.1,0.0,0.9949126299491263,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/Scotland/QEUH-2A7B71A/2021|2021-11-14|2021-11-21,AY.98,0.0,0.9105730040757612,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/LA-CDC-QDX26632947/2021|2021-07-07|2021-08-03,AY.13,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/UT-CDC-LC0059017/2021|2021-05-06|2021-09-21,B.1.170,0.0,0.971945701357466,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/AZ-CDC-LC0033842/2021|2021-03-17|2021-09-21,B.1.1.232,0.0,0.9082172032676598,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/TN-CDC-ASC210131800/2021|2021-09-05|2021-09-21,AY.89,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CA-CDC-ASC210120170/2021|2021-08-20|2021-09-22,AY.119,0.0,0.9980154355016538,Delta (B.1.617.2-like),0.846200,0.153800,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0
+hCoV-19/England/PHEC-V303VEF1/2021|2021-07-21|2021-09-06,AY.9.2,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/England/PHEC-V305V062/2021|2021-07-23|2021-09-06,AY.70,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/England/NEWC-1B3E900/2021|2021-08-06|2021-09-06,AY.38,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/Scotland/QEUH-156AA95/2021|2021-05-06|2021-05-24,B.1.620,0.0,0.9953570638956445,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-FG-101489/2021|2021-08-25|2021-09-08,AY.106,0.0,0.991566799822459,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CA-CDC-FG-090997/2021|2021-08-18|2021-09-08,B.1.617.2,0.0,0.9758846067162498,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-1EEAA76/2021|2021-09-20|2021-09-27,AY.74,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/OH-CDC-ASC210130807/2021|2021-09-07|2021-09-27,AY.113,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-1E42E25/2021|2021-09-05|2021-09-27,AY.72,0.0,0.9966880105983661,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/PHEP-YYBYUBK/2021|2021-10-03|2021-10-18,AY.32,0.0,0.9149952244508118,Delta (B.1.617.2-like),0.769200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 10; Ref alleles 0; Amb alleles 3; Oth alleles 0
+hCoV-19/USA/MI-CDC-STM-5YHNKE6H9/2021|2021-11-17|2021-12-06,AY.99.2,0.0,0.960183066361556,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/England/PHEC-3K0B4K33/2021|2021-09-18|2021-10-18,AY.125,0.0,0.8716165880307921,Delta (B.1.617.2-like),0.769200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 10; Ref alleles 0; Amb alleles 3; Oth alleles 0
+hCoV-19/Scotland/CVR7809/2021|2021-06-17|2021-06-28,B,0.0,0.9836725564750615,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/OH-CDC-MMB11403851/2021|2021-11-03|2021-12-06,AY.46.6,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-1FAE424/2021|2021-09-27|2021-10-04,AY.7.1,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/PHEP-032975/2021|2021-09-07|2021-10-04,AY.49,0.0,0.9679763797410856,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/England/PHEP-037641/2021|2021-09-18|2021-10-04,AY.57,0.0,0.9486348912540491,Delta (B.1.617.2-like),0.846200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 2; Oth alleles 0
+hCoV-19/USA/WI-CDC-LC0275204/2021|2021-09-02|2021-10-04,AY.18,0.0,0.9608964097873314,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/England/MILK-2CB3E00/2021|2021-12-01|2021-12-08,AY.120,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/ALDP-2CF6EA7/2021|2021-12-01|2021-12-09,AY.36,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/IL-CDC-ASC210175814/2021|2021-08-26|2021-10-06,B.1.433,0.0,0.9843540455967814,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/TX-CDC-ASC210174027/2021|2021-08-26|2021-10-06,AY.25,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/MN-CDC-IBX483304223918/2021|2021-11-17|2021-12-09,AY.46,0.0,0.9920141969831411,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/ID-CDC-IBX717687903707/2021|2021-09-25|2021-10-07,AY.102,0.0,0.9940225813593093,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/NC-CDC-LC0007128/2021|2021-01-18|2021-10-08,B.1.349,0.0,0.9295641931684334,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/PA-CDC-LC0001378/2020|2020-12-26|2021-10-08,B.1.234,0.0,0.700228832951945,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/ALDP-1344046/2021|2021-02-24|2021-03-11,B.1.1.420,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/ALDP-2D15348/2021|2021-12-02|2021-12-11,AY.5,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-2D43068/2021|2021-12-05|2021-12-12,AY.4.4,0.0,1.0,Delta (AY.4-like),0.968800,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 31; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/CA-CDC-FG-185174/2021|2021-12-02|2021-12-12,AY.14,0.0,0.9953570638956445,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/GA-CDC-MMB10393306/2021|2021-09-13|2021-10-12,AY.3.1,0.0,0.9977944419938244,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/VT-CDC-QDX30084951/2021|2021-10-13|2021-10-29,AY.122,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-2D7ED21/2021|2021-12-06|2021-12-14,AY.4,0.0,0.9784172661870504,Delta (AY.4-like),0.937500,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 30; Ref alleles 0; Amb alleles 2; Oth alleles 0
+hCoV-19/USA/CA-CDC-ASC210012366/2021|2021-03-19|2021-09-21,B.1.618,0.0,0.9931309550188345,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/MA-CDC-LC0057546/2021|2021-05-02|2021-09-21,B.1.1.318,0.0,1.0,B.1.1.318-like,0.842100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 16; Ref alleles 0; Amb alleles 0; Oth alleles 3
+hCoV-19/England/PHEP-YYBCRMP/2021|2021|2021-11-01,AY.55,0.0,0.9432558139534883,Delta (B.1.617.2-like),0.769200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 10; Ref alleles 0; Amb alleles 3; Oth alleles 0
+hCoV-19/England/BRBR-2DBD5C4/2021|2021-12-08|2021-12-15,AY.34,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/TX-CDC-LC0144819/2021|2021-07-19|2021-08-20,AY.64,0.0,0.998236331569665,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CA-CDC-LC0146978/2021|2021-07-27|2021-08-20,AY.24,0.0,0.9069040173201828,Delta (B.1.617.2-like),0.846200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 0; Amb alleles 2; Oth alleles 0
+hCoV-19/USA/NC-CDC-STM-000027453/2021|2021-02-28|2021-03-19,B.1.582,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/PHEC-S30BS3BE/2021|2021-08-08|2021-08-30,AY.94,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/TX-CDC-QDX30320167/2021|2021-10-23|2021-11-05,AY.17,0.0,0.9834451901565996,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/England/PHEC-Y303YD7C/2021|2021-09-09|2021-09-13,AY.33,0.0,0.980480143594346,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/IN-CDC-QDX30855991/2021|2021-11-05|2021-11-26,B.1.509,0.0,0.9971308761862724,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/IN-CDC-ASC210522403/2021|2021-11-05|2021-11-26,AY.62,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/OH-CDC-ASC210429048/2021|2021-11-20|2021-12-15,AY.82,0.0,0.9906708129720124,Delta (B.1.617.2-like),0.846200,0.153800,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-2B73BD9/2021|2021-11-22|2021-11-29,AY.34.1,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/PA-CDC-STM-000035416/2021|2021-03-13|2021-04-02,B.1.311,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/MILK-2DF642C/2021|2021-12-09|2021-12-16,BA.2,0.0,1.0,Omicron (BA.2-like),0.969700,0.030300,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 64; Ref alleles 2; Amb alleles 0; Oth alleles 0; scorpio replaced lineage assignment B.1.1.529
+hCoV-19/England/BRBR-2DFD391/2021|2021-12-09|2021-12-16,AY.6,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/PHEC-YYB1BDU/2021|2021-11-30|2021-12-16,AY.41,0.0,1.0,Delta (AY.4-like),0.937500,0.031200,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 30; Ref alleles 1; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/CA-CDC-LC0352792/2021|2021-10-16|2021-11-09,AY.101,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/PHEC-YYBOTD8/2021|2021|2021-12-02,AY.45,0.0,0.9966880105983661,Delta (AY.4-like),0.906200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 29; Ref alleles 0; Amb alleles 2; Oth alleles 1
+hCoV-19/USA/NC-CDC-2-4011969/2021|2021-02-12|2021-08-12,B.1.265,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/MILK-1563908/2021|2021-05-08|2021-05-17,A.2.5.1,0.0,0.9554022988505747,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/MILK-17B35A9/2021|2021-06-22|2021-07-02,AY.116,0.0,0.9834451901565996,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/MI-CDC-STM-RJE5H779C/2021|2021-11-29|2021-12-10,AY.117,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CA-CDC-FG-145520/2021|2021-10-06|2021-10-15,AY.85,0.0,0.9252601702932829,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/England/PHEC-3P033PE3/2021|2021-10-21|2021-11-08,AY.65,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/CAMB-75604/2020|2020-03-16|2020-04-14,B.3,0.0,0.9029454369869628,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-FG-137808/2021|2021-09-27|2021-10-06,AY.5.3,0.0,0.9270365997638725,Delta (B.1.617.2-like),0.769200,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 10; Ref alleles 0; Amb alleles 3; Oth alleles 0
+hCoV-19/USA/VA-CDC-LC0260064/2021|2021-09-09|2021-09-24,AY.46.1,0.0,0.9832177220854778,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/MO-CDC-ASC210192423/2021|2021-08-14|2021-09-13,AY.39,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/England/LIVE-DB62D9/2020|2020-11-07|2020-11-23,B.1.471,0.0,0.9196386115073705,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-FG-006604/2021|2021-03-02|2021-10-07,B.1.36.29,0.0,0.9942452412571935,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/GA-EHC-214H/2020|2020-04-23|2021-05-28,B.1.332,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/AR-CDC-ASC210406059/2021|2021-09-13|2021-10-13,AY.19,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/MO-CDC-LC0384545/2021|2021-11-08|2021-11-30,AY.118,0.0,0.9995596653456627,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/IL-CDC-LC0100938/2021|2021-07-12|2021-08-10,P.1,0.0,0.9400513179379519,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/UN-CDC-4227109-001/2021|2021-01-12|2021-09-09,B.1.239,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/MILK-1B3225C/2021|2021-08-08|2021-08-16,AY.28,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-20528B6/2021|2021-10-05|2021-10-14,AY.109,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/PA-CDC-ASC210381548/2021|2021-09-29|2021-11-08,AY.15,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/NV-CDC-QDX22165027/2021|2021-02-18|2021-03-04,B.1.609,0.0,0.9949126299491263,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/NC-CDC-ASC210324558/2021|2021-10-02|2021-11-08,AY.39.1,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/England/CAMC-14F84F9/2021|2021-04-10|2021-04-20,B.1.351.3,0.0,0.9953570638956445,Beta (B.1.351-like),0.857100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 2
+hCoV-19/USA/WI-CDC-ASC210340114/2021|2021-10-07|2021-11-08,AY.51,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CA-CDC-2-3850543/2021|2021-01-26|2021-08-12,B.1.126,0.0,0.9710144927536232,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/IN-CDC-2-3903574/2021|2021-02-05|2021-08-12,B.1.565,0.0,0.9809374299170217,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/KY-CDC-LC0303637/2021|2021-09-23|2021-10-15,AY.75,0.0,0.8628628628628628,Delta (B.1.617.2-like),0.615400,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 8; Ref alleles 0; Amb alleles 5; Oth alleles 0
+hCoV-19/England/LIVE-99C53/2020|2020-04-13|2020-05-12,B.39,0.0,0.927796130250118,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/LIVE-9A4F0/2020|2020-03-25|2020-05-19,B.1.1.339,0.0,0.8976225133430373,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/LOND-D3B32/2020|2020-04-04|2020-05-19,B.1.1.164,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/LIVE-1D2877/2020|2020-08-16|2020-09-14,B.1.413,0.0,0.9045323047251688,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/CA-CDC-FG-021483/2021|2021-04-13|2021-04-21,B.1.1.519,0.0,0.9940225813593093,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/ALDP-2D84793/2021|2021-12-05|2021-12-14,AY.127,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CA-CDC-FG-117802/2021|2021-09-09|2021-10-15,AY.98.1,0.0,0.9951348960636887,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/MI-CDC-ASC210013548/2021|2021-03-21|2021-06-10,B.1.438.1,0.0,0.9852612773559625,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/MA-CDC-LC0407550/2021|2021-12-01|2021-12-21,AY.20,0.0,0.9768070254447196,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/NY-CDC-FG-195684/2021|2021-12-08|2021-12-25,AY.27,0.0,0.9997798811358133,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/MI-CDC-ASC210391786/2021|2021-11-06|2021-12-21,AY.16,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/IL-CDC-ASC210401595/2021|2021-11-14|2021-12-21,AY.23,0.0,1.0,Delta (B.1.617.2-like),0.846200,0.153800,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 11; Ref alleles 2; Amb alleles 0; Oth alleles 0
+hCoV-19/England/ARCH-001918H8/2021|2021|2021-12-20,AY.4.2.1,0.0,0.894403892944039,Delta (AY.4.2-like),0.885700,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 31; Ref alleles 0; Amb alleles 4; Oth alleles 0
+hCoV-19/England/ALDP-B630B5/2020|2020-11-08|2020-11-25,B.1.177.86,0.0,0.8930572472594397,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/MA-CDC-ASC210508899/2021|2021-11-28|2021-12-22,AY.86,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/LOND-1250260/2020|2020-03-18|2020-11-30,B.58,0.0,0.9244970414201183,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/Scotland/EDB29989/2021|2021-11-09|2021-12-02,AY.124,0.0,0.9774977497749775,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/OH-CDC-FG-052899/2021|2021-07-22|2021-08-16,AY.56,0.0,0.9966880105983661,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/ALDP-137021E/2021|2021-02-26|2021-03-15,B.1.1.7,0.0,0.9917905480363879,Alpha (B.1.1.7-like),0.956500,0.043500,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 22; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/MA-CDC-QDX22442643/2021|2021-02-26|2021-03-15,B.1.369,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/VA-CDC-QDX22359319/2021|2021-02-23|2021-03-15,B.1.243,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/TX-CDC-QDX22357952/2021|2021-02-22|2021-03-15,B.1.599,0.0,0.9852612773559625,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/SC-CDC-LC0196446/2021|2021-08-16|2021-09-13,AY.110,0.0,0.9946902654867257,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/FL-CDC-IBX087500568539/2021|2021-03-23|2021-04-22,R.1,0.0,0.9772676119738916,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/MILK-163717D/2021|2021-06-06|2021-06-14,AY.10,0.0,0.9726430024869998,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/TX-CDC-LC0203028/2021|2021-08-11|2021-09-13,AY.107,0.0,0.9486348912540491,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/England/MILK-162AA45/2021|2021-06-05|2021-06-14,B.1.351,0.0,0.9859406382503906,Beta (B.1.351-like),0.857100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 0; Oth alleles 2
+hCoV-19/USA/CA-CDC-ASC210512044/2021|2021-11-29|2021-12-23,AY.73,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/AZ-CDC-STM-000015317/2021|2021-02-15|2021-03-17,B.1.551,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/NC-CDC-STM-000017344/2021|2021-02-17|2021-03-17,B.1.1.316,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/NC-CDC-STM-000019284/2021|2021-02-17|2021-03-17,B.1.517,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/MA-CDC-STM-000021287/2021|2021-02-21|2021-03-17,B.1.1.33,0.0,1.0,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/USA/FL-CDC-STM-000025832/2021|2021-02-26|2021-03-17,B.1.595,0.0,0.9997798811358133,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/MILK-2F52E6A/2021|2021-12-18|2021-12-26,BA.1,0.0,0.9924611973392461,Omicron (BA.1-like),0.879300,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 51; Ref alleles 0; Amb alleles 5; Oth alleles 2; scorpio replaced lineage assignment B.1.1.529
+hCoV-19/USA/SC-CDC-MMB10546091/2021|2021-09-19|2021-10-18,AY.100,0.0,0.9904465674294601,Delta (B.1.617.2-like),0.923100,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 0; Amb alleles 1; Oth alleles 0
+hCoV-19/USA/CA-CDC-LC0213492/2021|2021-08-15|2021-09-13,AY.88,0.0,1.0,Delta (B.1.617.2-like),1.000000,0.000000,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/MO-CDC-ASC210106408/2021|2021-06-01|2021-06-14,AY.3,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/CO-CDC-ASC210095273/2021|2021-09-25|2021-11-10,AY.126,0.0,1.0,Delta (B.1.617.2-like),0.923100,0.076900,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 12; Ref alleles 1; Amb alleles 0; Oth alleles 0
+hCoV-19/USA/NY-CDC-ASC210431395/2021|2021-11-23|2021-12-23,B.1.279,0.0,0.9777277840269967,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,
+hCoV-19/England/ALDP-A95F90/2020|2020-10-19|2021-01-15,B.1.1.189,0.0,0.9587534372135655,,,,PLEARN-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,

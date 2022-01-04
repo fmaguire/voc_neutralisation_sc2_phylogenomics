@@ -1,0 +1,4 @@
+sample	run_name	num_consensus_snvs	num_consensus_n	num_consensus_iupac	num_variants_snvs	num_variants_indel	num_variants_indel_triplet	mean_sequencing_depth	median_sequencing_depth	qpcr_ct	collection_date	num_weeks	scaled_variants_snvs	genome_completeness	qc_pass	lineage	lineage_notes	scorpio_call	watch_mutations
+KB-B-001	20220101_MN01513_WGS114_DEC31SRI_CK	29	126	1	27	3	2	1957.0	1937					0.9958	PASS	B.1.351	alt/ref/amb:12/0/2	Beta (B.1.351-like)	S:D80A,S:delL242_244Lv2,S:K417N,S:E484K,S:N501Y
+KB-D-002	20220101_MN01513_WGS114_DEC31SRI_CK	30	91	2	29	4	2	1754.4	1729					0.997	PASS	B.1.617.2	alt/ref/amb:13/0/0	Delta (B.1.617.2-like)	S:G142D,S:L452R
+KB-D-003	20220101_MN01513_WGS114_DEC31SRI_CK	56	84	2	50	10	7	1740.2	1717					0.9972	PASS	BA.1	alt/ref/amb:54/0/B.1.1.529	Omicron (BA.1-like)	S:K417N,S:Q493R,S:N501Y,S:P681H

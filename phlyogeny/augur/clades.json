@@ -1,0 +1,1651 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "13.1.0"
+  },
+  "nodes": {
+    "KB-B-001": {
+      "clade_membership": "20H (Beta, V2)"
+    },
+    "KB-D-002": {
+      "clade_membership": "21I (Delta)"
+    },
+    "KB-D-003": {
+      "clade_membership": "21K (Omicron)"
+    },
+    "MN908947.3": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000000": {
+      "clade_annotation": "19A",
+      "clade_membership": "19A"
+    },
+    "NODE_0000001": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000002": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000003": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000004": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000005": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000006": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000007": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000008": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000009": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000010": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000011": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000012": {
+      "clade_annotation": "19B",
+      "clade_membership": "19B"
+    },
+    "NODE_0000013": {
+      "clade_membership": "19B"
+    },
+    "NODE_0000014": {
+      "clade_membership": "19B"
+    },
+    "NODE_0000015": {
+      "clade_membership": "19B"
+    },
+    "NODE_0000016": {
+      "clade_membership": "19B"
+    },
+    "NODE_0000017": {
+      "clade_membership": "19B"
+    },
+    "NODE_0000018": {
+      "clade_membership": "19B"
+    },
+    "NODE_0000019": {
+      "clade_membership": "19B"
+    },
+    "NODE_0000020": {
+      "clade_membership": "19B"
+    },
+    "NODE_0000021": {
+      "clade_membership": "19A"
+    },
+    "NODE_0000022": {
+      "clade_annotation": "20A",
+      "clade_membership": "20A"
+    },
+    "NODE_0000023": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000024": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000025": {
+      "clade_annotation": "21A (Delta)",
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000026": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000027": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000028": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000029": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000030": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000031": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000032": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000033": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000034": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000035": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000036": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000037": {
+      "clade_membership": "21A (Delta)"
+    },
+    "NODE_0000038": {
+      "clade_annotation": "21I (Delta)",
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000039": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000040": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000041": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000042": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000043": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000044": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000045": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000046": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000047": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000048": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000049": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000050": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000051": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000052": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000053": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000054": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000055": {
+      "clade_membership": "21I (Delta)"
+    },
+    "NODE_0000056": {
+      "clade_annotation": "21J (Delta)",
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000057": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000058": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000059": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000060": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000061": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000062": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000063": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000064": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000065": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000066": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000067": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000068": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000069": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000070": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000071": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000072": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000073": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000074": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000075": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000076": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000077": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000078": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000079": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000080": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000081": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000082": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000083": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000084": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000085": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000086": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000087": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000088": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000089": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000090": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000091": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000092": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000093": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000094": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000095": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000096": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000097": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000098": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000099": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000100": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000101": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000102": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000103": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000104": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000105": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000106": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000107": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000108": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000109": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000110": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000111": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000112": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000113": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000114": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000115": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000116": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000117": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000118": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000119": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000120": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000121": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000122": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000123": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000124": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000125": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000126": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000127": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000128": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000129": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000130": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000131": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000132": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000133": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000134": {
+      "clade_membership": "21J (Delta)"
+    },
+    "NODE_0000135": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000136": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000137": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000138": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000139": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000140": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000141": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000142": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000143": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000144": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000145": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000146": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000147": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000148": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000149": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000150": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000151": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000152": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000153": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000154": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000155": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000156": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000157": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000158": {
+      "clade_annotation": "20C",
+      "clade_membership": "20C"
+    },
+    "NODE_0000159": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000160": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000161": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000162": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000163": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000164": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000165": {
+      "clade_annotation": "21C (Epsilon)",
+      "clade_membership": "21C (Epsilon)"
+    },
+    "NODE_0000166": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000167": {
+      "clade_annotation": "20H (Beta, V2)",
+      "clade_membership": "20H (Beta, V2)"
+    },
+    "NODE_0000168": {
+      "clade_membership": "20H (Beta, V2)"
+    },
+    "NODE_0000169": {
+      "clade_membership": "20H (Beta, V2)"
+    },
+    "NODE_0000170": {
+      "clade_membership": "20H (Beta, V2)"
+    },
+    "NODE_0000171": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000172": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000173": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000174": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000175": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000176": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000177": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000178": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000179": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000180": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000181": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000182": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000183": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000184": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000185": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000186": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000187": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000188": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000189": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000190": {
+      "clade_membership": "20C"
+    },
+    "NODE_0000191": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000192": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000193": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000194": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000195": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000196": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000197": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000198": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000199": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000200": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000201": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000202": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000203": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000204": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000205": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000206": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000207": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000208": {
+      "clade_annotation": "21H (Mu)",
+      "clade_membership": "21H (Mu)"
+    },
+    "NODE_0000209": {
+      "clade_annotation": "21M (Omicron)",
+      "clade_membership": "21M (Omicron)"
+    },
+    "NODE_0000210": {
+      "clade_annotation": "21K (Omicron)",
+      "clade_membership": "21K (Omicron)"
+    },
+    "NODE_0000211": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000212": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000213": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000214": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000215": {
+      "clade_annotation": "20E (EU1)",
+      "clade_membership": "20E (EU1)"
+    },
+    "NODE_0000216": {
+      "clade_membership": "20E (EU1)"
+    },
+    "NODE_0000217": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000218": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000219": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000220": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000221": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000222": {
+      "clade_membership": "20A"
+    },
+    "NODE_0000223": {
+      "clade_annotation": "20B",
+      "clade_membership": "20B"
+    },
+    "NODE_0000224": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000225": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000226": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000227": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000228": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000229": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000230": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000231": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000232": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000233": {
+      "clade_annotation": "20J (Gamma, V3)",
+      "clade_membership": "20J (Gamma, V3)"
+    },
+    "NODE_0000234": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000235": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000236": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000237": {
+      "clade_annotation": "20I (Alpha, V1)",
+      "clade_membership": "20I (Alpha, V1)"
+    },
+    "NODE_0000238": {
+      "clade_membership": "20I (Alpha, V1)"
+    },
+    "NODE_0000239": {
+      "clade_membership": "20I (Alpha, V1)"
+    },
+    "NODE_0000240": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000241": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000242": {
+      "clade_annotation": "20D",
+      "clade_membership": "20D"
+    },
+    "NODE_0000243": {
+      "clade_membership": "20D"
+    },
+    "NODE_0000244": {
+      "clade_membership": "20D"
+    },
+    "NODE_0000245": {
+      "clade_membership": "20D"
+    },
+    "NODE_0000246": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000247": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000248": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000249": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000250": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000251": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000252": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000253": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000254": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000255": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000256": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000257": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000258": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000259": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000260": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000261": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000262": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000263": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000264": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000265": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000266": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000267": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000268": {
+      "clade_membership": "20B"
+    },
+    "Wuhan/Hu-1/2019": {
+      "clade_membership": "19A"
+    },
+    "Wuhan/WH01/2019": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/England/ALDP-118B449/2021|2021-01-24|2021-02-08": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/ALDP-119C533/2021|2021-01-27|2021-02-08": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/ALDP-1344046/2021|2021-02-24|2021-03-11": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/ALDP-137021E/2021|2021-02-26|2021-03-15": {
+      "clade_membership": "20I (Alpha, V1)"
+    },
+    "hCoV-19/England/ALDP-1B9F5EB/2021|2021-08-12|2021-08-20": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/ALDP-2953A4D/2021|2021-11-04|2021-11-12": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/ALDP-2CF6EA7/2021|2021-12-01|2021-12-09": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/ALDP-2D15348/2021|2021-12-02|2021-12-11": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/ALDP-2D84793/2021|2021-12-05|2021-12-14": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/ALDP-908CA1/2020|2020-06-22|2020-09-28": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/ALDP-9CD7A7/2020|2020-09-15|2020-10-01": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/ALDP-9FCEE6/2020|2020-10-01|2020-10-20": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/ALDP-A8723E/2020|2020-10-14|2020-11-02": {
+      "clade_membership": "20E (EU1)"
+    },
+    "hCoV-19/England/ALDP-A95F90/2020|2020-10-19|2021-01-15": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/ALDP-B5C134/2020|2020-11-08|2020-11-25": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/ALDP-B630B5/2020|2020-11-08|2020-11-25": {
+      "clade_membership": "20E (EU1)"
+    },
+    "hCoV-19/England/ALDP-C25E96/2020|2020-12-06|2021-01-08": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/ALDP-C889EB/2020|2020-12-17|2021-01-04": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/ALDP-CF159E/2020|2020-12-18|2021-01-08": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/ARCH-001918H8/2021|2021|2021-12-20": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/BRBR-2C302B4/2021|2021-11-26|2021-12-05": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/BRBR-2DBD5C4/2021|2021-12-08|2021-12-15": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/BRBR-2DFD391/2021|2021-12-09|2021-12-16": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/BRIS-1253DE/2020|2020-03-27|2020-05-12": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/England/CAMB-1B4116/2020|2020-06-01|2020-06-23": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/CAMB-73949/2020|2020-03-30|2020-04-14": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/England/CAMB-75604/2020|2020-03-16|2020-04-14": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/England/CAMB-7BC93/2020|2020-04-04|2020-05-12": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/England/CAMB-7C403/2020|2020-04-05|2020-05-12": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/England/CAMC-1179068/2021|2021-01-14|2021-02-15": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/CAMC-139C4DA/2021|2021-03-08|2021-03-24": {
+      "clade_membership": "20J (Gamma, V3)"
+    },
+    "hCoV-19/England/CAMC-144B71C/2021|2021-03-23|2021-04-08": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/CAMC-14D5F79/2021|2021-04-05|2021-04-13": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/England/CAMC-14F84F9/2021|2021-04-10|2021-04-20": {
+      "clade_membership": "20H (Beta, V2)"
+    },
+    "hCoV-19/England/CAMC-949F9C/2020|2020-07-26|2020-09-28": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/England/CAMC-B0A469/2020|2020-10-29|2020-12-04": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/England/CAMC-B0ABFB/2020|2020-10-29|2020-11-18": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/CAMC-B34141/2020|2020-11-05|2020-11-25": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/CAMC-B52453/2020|2020-11-08|2020-11-25": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/CAMC-B7794A/2020|2020-11-11|2020-11-30": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/CAMC-BBBD99/2020|2020-11-21|2020-12-14": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/EXET-136E33/2020|2020-04-22|2020-06-23": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/England/HECH-2599DEC/2020|2020-05-06|2020-07-03": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/LCST-24D6A47/2020|2020-06-04|2020-06-30": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/England/LIVE-1D2877/2020|2020-08-16|2020-09-14": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/LIVE-99C53/2020|2020-04-13|2020-05-12": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/England/LIVE-9A4F0/2020|2020-03-25|2020-05-19": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/LIVE-A58BA/2020|2020-03-20|2020-07-28": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/LIVE-DB62D9/2020|2020-11-07|2020-11-23": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/LIVE-DDA6C4/2021|2021-01-10|2021-01-25": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/England/LOND-1250260/2020|2020-03-18|2020-11-30": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/England/LOND-1260C41/2020|2020-03-18|2020-08-28": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/England/LOND-D3B32/2020|2020-04-04|2020-05-19": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/MILK-112E92B/2021|2021-01-21|2021-02-04": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/MILK-11C98CB/2021|2021-01-31|2021-02-23": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/MILK-1563908/2021|2021-05-08|2021-05-17": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/England/MILK-162AA45/2021|2021-06-05|2021-06-14": {
+      "clade_membership": "20H (Beta, V2)"
+    },
+    "hCoV-19/England/MILK-163717D/2021|2021-06-06|2021-06-14": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/England/MILK-166AF1D/2021|2021-06-09|2021-06-16": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/England/MILK-174A5F2/2021|2021-06-19|2021-06-28": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/England/MILK-17A7748/2021|2021-06-23|2021-07-02": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-17B35A9/2021|2021-06-22|2021-07-02": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-19C002E/2021|2021-07-21|2021-07-27": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-1A616FF/2021|2021-07-29|2021-08-04": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-1B3225C/2021|2021-08-08|2021-08-16": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/England/MILK-1C53694/2021|2021-08-19|2021-08-29": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-1E42E25/2021|2021-09-05|2021-09-27": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/England/MILK-1EEAA76/2021|2021-09-20|2021-09-27": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-1FAE424/2021|2021-09-27|2021-10-04": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-20528B6/2021|2021-10-05|2021-10-14": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-2B73BD9/2021|2021-11-22|2021-11-29": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-2CB3E00/2021|2021-12-01|2021-12-08": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-2D43068/2021|2021-12-05|2021-12-12": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-2D7ED21/2021|2021-12-06|2021-12-14": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-2DF642C/2021|2021-12-09|2021-12-16": {
+      "clade_annotation": "21L (Omicron)",
+      "clade_membership": "21L (Omicron)"
+    },
+    "hCoV-19/England/MILK-2F07004/2021|2021-12-16|2021-12-24": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/MILK-2F52E6A/2021|2021-12-18|2021-12-26": {
+      "clade_membership": "21K (Omicron)"
+    },
+    "hCoV-19/England/MILK-804F61/2020|2020-07-16|2020-09-28": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/MILK-9710C5/2020|2020-08-17|2020-09-28": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/MILK-973227/2020|2020-08-20|2020-10-08": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/MILK-9733E8/2020|2020-08-19|2020-10-08": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/MILK-99A3BE/2020|2020-08-29|2020-09-28": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/MILK-9AA05A/2020|2020-08-31|2020-09-28": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/MILK-A17DAB/2020|2020-10-01|2020-10-26": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/MILK-ACFE45/2020|2020-10-22|2020-11-23": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/MILK-B89A06/2020|2020-11-13|2020-12-04": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/MILK-BA9A6A/2020|2020-11-17|2020-12-08": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/MILK-BDC49D/2020|2020-11-26|2020-12-17": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/NEWC-1B3E900/2021|2021-08-06|2021-09-06": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/NORT-288D9E/2020|2020-03-22|2020-05-27": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/NOTT-1117D9/2020|2020-05-21|2020-06-06": {
+      "clade_membership": "20D"
+    },
+    "hCoV-19/England/NOTT-122178/2021|2021-01-02|2021-01-14": {
+      "clade_membership": "20D"
+    },
+    "hCoV-19/England/OXON-FA0CA5/2020|2020-11-19|2021-07-19": {
+      "clade_membership": "20E (EU1)"
+    },
+    "hCoV-19/England/PHEC-1B4F7/2020|2020-04-02|2021-06-30": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/England/PHEC-30418E/2021|2021|2021-06-30": {
+      "clade_membership": "20H (Beta, V2)"
+    },
+    "hCoV-19/England/PHEC-3066BA/2021|2021|2021-06-30": {
+      "clade_membership": "20H (Beta, V2)"
+    },
+    "hCoV-19/England/PHEC-33F5CA/2021|2021|2021-08-09": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PHEC-3K0B4K33/2021|2021-09-18|2021-10-18": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PHEC-3L049L3B/2021|2021-10-13|2021-10-25": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/England/PHEC-3P033PE3/2021|2021-10-21|2021-11-08": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/England/PHEC-L307L4A0/2021|2021|2021-06-30": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/England/PHEC-S30BS3BE/2021|2021-08-08|2021-08-30": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PHEC-V303VEF1/2021|2021-07-21|2021-09-06": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/England/PHEC-V305V062/2021|2021-07-23|2021-09-06": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/England/PHEC-Y303YD7C/2021|2021-09-09|2021-09-13": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PHEC-YYB1BDU/2021|2021-11-30|2021-12-16": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PHEC-YYBOTD8/2021|2021|2021-12-02": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PHEP-032975/2021|2021-09-07|2021-10-04": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PHEP-037641/2021|2021-09-18|2021-10-04": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/England/PHEP-YYB5ET7/2021|2021-11-02|2021-11-15": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PHEP-YYBCRMP/2021|2021|2021-11-01": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PHEP-YYBYUBK/2021|2021-10-03|2021-10-18": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/England/PORT-1E7C6A2/2020|2020-12-05|2021-05-10": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/PORT-2D3972/2020|2020-04-17|2020-09-10": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/QEUH-9B9B0C/2020|2020-09-07|2020-09-28": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/England/QEUH-9F5542/2020|2020-09-25|2020-10-20": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/QEUH-A0B9C4/2020|2020-10-01|2020-10-27": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/QEUH-C1A68D/2020|2020-12-07|2021-01-11": {
+      "clade_membership": "20D"
+    },
+    "hCoV-19/England/SHEF-C5DB5/2020|2020-04-16|2020-05-19": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/England/SHEF-CA1B4/2020|2020-04-01|2020-04-29": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/England/TFCI-26FA9B7/2020|2020-12-31|2021-01-14": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/England/TFCI-26FCAD0/2020|2020-12-16|2021-04-05": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/Scotland/CVR3308/2020|2020-05-01|2020-07-21": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/Scotland/CVR7809/2021|2021-06-17|2021-06-28": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/Scotland/CVR896/2020|2020-03-27|2020-05-12": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/Scotland/EDB29989/2021|2021-11-09|2021-12-02": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/Scotland/MILK-1DEC27D/2021|2021-09-07|2021-09-15": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/Scotland/QEUH-10672A4/2021|2021-01-17|2021-02-03": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/Scotland/QEUH-15293A6/2021|2021-04-21|2021-05-03": {
+      "clade_annotation": "21B (Kappa)",
+      "clade_membership": "21B (Kappa)"
+    },
+    "hCoV-19/Scotland/QEUH-156AA95/2021|2021-05-06|2021-05-24": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/Scotland/QEUH-2A7B71A/2021|2021-11-14|2021-11-21": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/Scotland/QEUH-BEAF22/2020|2020-12-04|2020-12-18": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/AR-CDC-2-4012868/2021|2021-02-02|2021-03-23": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/AR-CDC-ASC210406059/2021|2021-09-13|2021-10-13": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/AZ-CDC-LC0033842/2021|2021-03-17|2021-09-21": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/AZ-CDC-STM-000015317/2021|2021-02-15|2021-03-17": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/CA-CDC-2-3850543/2021|2021-01-26|2021-08-12": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/CA-CDC-ASC210012366/2021|2021-03-19|2021-09-21": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/CA-CDC-ASC210061368/2021|2021-05-07|2021-05-20": {
+      "clade_membership": "21C (Epsilon)"
+    },
+    "hCoV-19/USA/CA-CDC-ASC210120170/2021|2021-08-20|2021-09-22": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-ASC210245698/2021|2021-07-25|2021-08-31": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-ASC210278157/2021|2021-08-07|2021-08-27": {
+      "clade_annotation": "21G (Lambda)",
+      "clade_membership": "21G (Lambda)"
+    },
+    "hCoV-19/USA/CA-CDC-ASC210512044/2021|2021-11-29|2021-12-23": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-FG-006604/2021|2021-03-02|2021-10-07": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/CA-CDC-FG-010935/2021|2021-03-19|2021-04-02": {
+      "clade_membership": "21C (Epsilon)"
+    },
+    "hCoV-19/USA/CA-CDC-FG-012812/2021|2021-03-22|2021-04-02": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/CA-CDC-FG-019269/2021|2021-04-01|2021-04-15": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/CA-CDC-FG-021483/2021|2021-04-13|2021-04-21": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/CA-CDC-FG-040606/2021|2021-07-07|2021-07-20": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/USA/CA-CDC-FG-081499/2021|2021-08-16|2021-08-24": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-FG-090997/2021|2021-08-18|2021-09-08": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-FG-101489/2021|2021-08-25|2021-09-08": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-FG-117802/2021|2021-09-09|2021-10-15": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-FG-137808/2021|2021-09-27|2021-10-06": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-FG-145520/2021|2021-10-06|2021-10-15": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-FG-167918/2021|2021-11-10|2021-11-19": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-FG-185174/2021|2021-12-02|2021-12-12": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-LC0146978/2021|2021-07-27|2021-08-20": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-LC0159150/2021|2021-07-31|2021-08-23": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-LC0213492/2021|2021-08-15|2021-09-13": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-LC0352792/2021|2021-10-16|2021-11-09": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CA-CDC-STM-000062190/2021|2021-04-23|2021-05-11": {
+      "clade_membership": "20I (Alpha, V1)"
+    },
+    "hCoV-19/USA/CO-CDC-2-4194788/2020|2020-12-17|2021-04-24": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/CO-CDC-2-4194872/2020|2020-12-17|2021-04-24": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/CO-CDC-ASC210095273/2021|2021-09-25|2021-11-10": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/CO-CDC-FG-029146/2021|2021-04-23|2021-09-21": {
+      "clade_annotation": "21F (Iota)",
+      "clade_membership": "21F (Iota)"
+    },
+    "hCoV-19/USA/DC-CDC-LC0049228/2021|2021-04-14|2021-04-29": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/FL-CDC-ASC210001341/2021|2021-03-04|2021-05-24": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/FL-CDC-ASC210110661/2021|2021-06-21|2021-09-21": {
+      "clade_membership": "21H (Mu)"
+    },
+    "hCoV-19/USA/FL-CDC-ASC210231292/2021|2021-07-27|2021-09-01": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/USA/FL-CDC-FG-011536/2021|2021-03-08|2021-04-02": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/FL-CDC-IBX087500568539/2021|2021-03-23|2021-04-22": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/FL-CDC-STM-000025832/2021|2021-02-26|2021-03-17": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/FL-CDC-STM-000705666/2021|2021-07-02|2021-11-18": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/FL-CDC-STM-000715766/2021|2021-08-01|2021-11-18": {
+      "clade_membership": "21H (Mu)"
+    },
+    "hCoV-19/USA/FL-CDC-STM-000728974/2021|2021-09-07|2021-11-16": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/USA/GA-CDC-MMB09561429/2021|2021-08-03|2021-09-17": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/GA-CDC-MMB10393306/2021|2021-09-13|2021-10-12": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/GA-CDC-STM-000718937/2021|2021-08-07|2021-11-18": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/GA-EHC-214H/2020|2020-04-23|2021-05-28": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/GA-EHC-227U/2020|2020-04-30|2021-05-28": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/GA-EHC-264F/2020|2020-05-09|2021-05-28": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/USA/ID-CDC-IBX649302214488/2021|2021-03-18|2021-04-08": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/ID-CDC-IBX717687903707/2021|2021-09-25|2021-10-07": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/IL-CDC-ASC210012511/2021|2021-03-19|2021-04-08": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/IL-CDC-ASC210039701/2021|2021-03-31|2021-09-21": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/IL-CDC-ASC210175814/2021|2021-08-26|2021-10-06": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/IL-CDC-ASC210401595/2021|2021-11-14|2021-12-21": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/IL-CDC-LC0100938/2021|2021-07-12|2021-08-10": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/IN-CDC-2-3903574/2021|2021-02-05|2021-08-12": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/IN-CDC-ASC210522403/2021|2021-11-05|2021-11-26": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/USA/IN-CDC-QDX30855991/2021|2021-11-05|2021-11-26": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/KY-CDC-LC0303637/2021|2021-09-23|2021-10-15": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/LA-CDC-QDX26632947/2021|2021-07-07|2021-08-03": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/MA-CDC-ASC210508899/2021|2021-11-28|2021-12-22": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MA-CDC-LC0057546/2021|2021-05-02|2021-09-21": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/MA-CDC-LC0407550/2021|2021-12-01|2021-12-21": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MA-CDC-QDX22442643/2021|2021-02-26|2021-03-15": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/MA-CDC-QDX26177990/2021|2021-06-23|2021-07-09": {
+      "clade_membership": "20J (Gamma, V3)"
+    },
+    "hCoV-19/USA/MA-CDC-STM-000021287/2021|2021-02-21|2021-03-17": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/MA-CDC-STM-000045534/2021|2021-03-28|2021-04-13": {
+      "clade_membership": "20I (Alpha, V1)"
+    },
+    "hCoV-19/USA/MD-CDC-ASC210000603/2021|2021-03-02|2021-04-01": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/MI-CDC-ASC210013548/2021|2021-03-21|2021-06-10": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/MI-CDC-ASC210063133/2021|2021-05-13|2021-09-21": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/MI-CDC-ASC210363938/2021|2021-10-14|2021-11-10": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MI-CDC-ASC210391786/2021|2021-11-06|2021-12-21": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MI-CDC-STM-5YHNKE6H9/2021|2021-11-17|2021-12-06": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MI-CDC-STM-RJE5H779C/2021|2021-11-29|2021-12-10": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MN-CDC-IBX483304223918/2021|2021-11-17|2021-12-09": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MN-CDC-IBX499014803900/2021|2021-08-27|2021-09-16": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/USA/MN-CDC-IBX747800485760/2021|2021-04-20|2021-05-13": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/MO-CDC-ASC210106408/2021|2021-06-01|2021-06-14": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MO-CDC-ASC210192423/2021|2021-08-14|2021-09-13": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MO-CDC-LC0384545/2021|2021-11-08|2021-11-30": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/MS-CDC-2-4058177/2021|2021-03-05|2021-04-01": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/NC-CDC-2-4011969/2021|2021-02-12|2021-08-12": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/NC-CDC-ASC210324558/2021|2021-10-02|2021-11-08": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/NC-CDC-LC0007128/2021|2021-01-18|2021-10-08": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/NC-CDC-LC0193231/2021|2021-08-11|2021-08-27": {
+      "clade_membership": "20D"
+    },
+    "hCoV-19/USA/NC-CDC-STM-000017344/2021|2021-02-17|2021-03-17": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/NC-CDC-STM-000019284/2021|2021-02-17|2021-03-17": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/NC-CDC-STM-000027453/2021|2021-02-28|2021-03-19": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/NH-CDC-LC0031624/2021|2021-03-15|2021-04-02": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/NJ-CDC-ASC210385070/2021|2021-11-01|2021-11-20": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/NJ-CDC-LC0035859/2021|2021-03-26|2021-04-15": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/NV-CDC-QDX22165027/2021|2021-02-18|2021-03-04": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/NY-CDC-ASC210005927/2021|2021-03-13|2021-04-12": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/NY-CDC-ASC210431395/2021|2021-11-23|2021-12-23": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/NY-CDC-FG-195684/2021|2021-12-08|2021-12-25": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/USA/NY-CDC-LC0177186/2021|2021-08-06|2021-08-27": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/USA/OH-CDC-ASC210130807/2021|2021-09-07|2021-09-27": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/OH-CDC-ASC210429048/2021|2021-11-20|2021-12-15": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/OH-CDC-FG-052899/2021|2021-07-22|2021-08-16": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/USA/OH-CDC-MMB11403851/2021|2021-11-03|2021-12-06": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/OH-CDC-QDX22758838/2021|2021-03-07|2021-03-24": {
+      "clade_membership": "20B"
+    },
+    "hCoV-19/USA/OR-CDC-2-4194772/2020|2020-12-17|2021-04-24": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/OR-CDC-2-4195152/2020|2020-12-24|2021-04-24": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/PA-CDC-ASC210381548/2021|2021-09-29|2021-11-08": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/PA-CDC-LC0001378/2020|2020-12-26|2021-10-08": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/PA-CDC-LC0033712/2021|2021-03-18|2021-04-08": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/PA-CDC-STM-000035416/2021|2021-03-13|2021-04-02": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/SC-CDC-LC0196446/2021|2021-08-16|2021-09-13": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/SC-CDC-LC0217643/2021|2021-08-24|2021-09-16": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/SC-CDC-MMB10546091/2021|2021-09-19|2021-10-18": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/TN-CDC-ASC210131800/2021|2021-09-05|2021-09-21": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/TX-CDC-ASC210003988/2021|2021-03-11|2021-05-24": {
+      "clade_membership": "19B"
+    },
+    "hCoV-19/USA/TX-CDC-ASC210083187/2021|2021-09-08|2021-10-08": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/TX-CDC-ASC210174027/2021|2021-08-26|2021-10-06": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/TX-CDC-LC0034652/2021|2021-03-19|2021-04-08": {
+      "clade_annotation": "20G",
+      "clade_membership": "20G"
+    },
+    "hCoV-19/USA/TX-CDC-LC0144819/2021|2021-07-19|2021-08-20": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/USA/TX-CDC-LC0203028/2021|2021-08-11|2021-09-13": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/TX-CDC-QDX22357952/2021|2021-02-22|2021-03-15": {
+      "clade_membership": "20C"
+    },
+    "hCoV-19/USA/TX-CDC-QDX30320167/2021|2021-10-23|2021-11-05": {
+      "clade_membership": "21I (Delta)"
+    },
+    "hCoV-19/USA/UN-CDC-4227109-001/2021|2021-01-12|2021-09-09": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/UT-CDC-LC0059017/2021|2021-05-06|2021-09-21": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/VA-CDC-ASC210240709/2021|2021-07-21|2021-09-21": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/VA-CDC-LC0050580/2021|2021-04-21|2021-05-06": {
+      "clade_membership": "20I (Alpha, V1)"
+    },
+    "hCoV-19/USA/VA-CDC-LC0260064/2021|2021-09-09|2021-09-24": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/VA-CDC-QDX22359319/2021|2021-02-23|2021-03-15": {
+      "clade_membership": "20A"
+    },
+    "hCoV-19/USA/VT-CDC-QDX30084951/2021|2021-10-13|2021-10-29": {
+      "clade_membership": "21J (Delta)"
+    },
+    "hCoV-19/USA/WI-CDC-ASC210340114/2021|2021-10-07|2021-11-08": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/USA/WI-CDC-LC0275204/2021|2021-09-02|2021-10-04": {
+      "clade_membership": "21A (Delta)"
+    },
+    "hCoV-19/Wales/CAMC-13B7257/2021|2021-03-06|2021-03-24": {
+      "clade_annotation": "21D (Eta)",
+      "clade_membership": "21D (Eta)"
+    },
+    "hCoV-19/Wuhan/Hu-1/2019|2019-12-31|2020-01-12": {
+      "clade_membership": "19A"
+    },
+    "hCoV-19/Wuhan/WH01/2019|2019-12-26|2020-01-30": {
+      "clade_membership": "19A"
+    }
+  }
+}

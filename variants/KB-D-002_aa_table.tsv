@@ -1,0 +1,34 @@
+sample	chr	pos	ref	alt	Consequence	gene	protein	aa
+KB-D-002	MN908947.3	210	G	T	upstream_gene_variant	orf1ab		NA
+KB-D-002	MN908947.3	241	C	T	upstream_gene_variant	orf1ab		NA
+KB-D-002	MN908947.3	3037	C	T	synonymous_variant	orf1ab	F924F	orf1ab-F924F
+KB-D-002	MN908947.3	5184	C	T	missense_variant	orf1ab	P1640L	orf1ab-P1640L
+KB-D-002	MN908947.3	5584	A	G	synonymous_variant	orf1ab	T1773T	orf1ab-T1773T
+KB-D-002	MN908947.3	6449	C	T	missense_variant	orf1ab	L2062F	orf1ab-L2062F
+KB-D-002	MN908947.3	9891	C	T	missense_variant	orf1ab	A3209V	orf1ab-A3209V
+KB-D-002	MN908947.3	11418	T	C	missense_variant	orf1ab	V3718A	orf1ab-V3718A
+KB-D-002	MN908947.3	11514	C	T	missense_variant	orf1ab	T3750I	orf1ab-T3750I
+KB-D-002	MN908947.3	13019	C	T	synonymous_variant	orf1ab	L4252L	orf1ab-L4252L
+KB-D-002	MN908947.3	14408	C	T	missense_variant	orf1ab	P4715L	orf1ab-P4715L
+KB-D-002	MN908947.3	15451	G	A	missense_variant	orf1ab	G5063S	orf1ab-G5063S
+KB-D-002	MN908947.3	16466	C	T	missense_variant	orf1ab	P5401L	orf1ab-P5401L
+KB-D-002	MN908947.3	21618	C	G	missense_variant	S	T19R	S-T19R
+KB-D-002	MN908947.3	21987	G	A	missense_variant	S	G142D	S-G142D
+KB-D-002	MN908947.3	22028	GAGTTCA	G	disruptive_inframe_deletion	S	E156_R158delinsG	S-E156_R158delinsG
+KB-D-002	MN908947.3	22227	C	T	missense_variant	S	A222V	S-A222V
+KB-D-002	MN908947.3	22917	T	G	missense_variant	S	L452R	S-L452R
+KB-D-002	MN908947.3	22995	C	A	missense_variant	S	T478K	S-T478K
+KB-D-002	MN908947.3	23403	A	G	missense_variant	S	D614G	S-D614G
+KB-D-002	MN908947.3	23525	C	T	missense_variant	S	H655Y	S-H655Y
+KB-D-002	MN908947.3	23604	CTC	GTT,GTC	missense_variant	S	P681R	S-P681R
+KB-D-002	MN908947.3	24410	G	A	missense_variant	S	D950N	S-D950N
+KB-D-002	MN908947.3	25469	C	T	missense_variant	ORF3a	S26L	ORF3a-S26L
+KB-D-002	MN908947.3	26767	T	C	missense_variant	M	I82T	M-I82T
+KB-D-002	MN908947.3	27638	T	C	missense_variant	ORF7a	V82A	ORF7a-V82A
+KB-D-002	MN908947.3	27752	C	T	missense_variant	ORF7a	T120I	ORF7a-T120I
+KB-D-002	MN908947.3	28247	AGATTTC	A	conservative_inframe_deletion	ORF8	D119_F120del	ORF8-D119_F120del
+KB-D-002	MN908947.3	28270	TA	T	upstream_gene_variant	N		NA
+KB-D-002	MN908947.3	28461	A	G	missense_variant	N	D63G	N-D63G
+KB-D-002	MN908947.3	28881	G	T	missense_variant	N	R203M	N-R203M
+KB-D-002	MN908947.3	29402	G	T	missense_variant	N	D377Y	N-D377Y
+KB-D-002	MN908947.3	29742	G	T	downstream_gene_variant	S		NA
