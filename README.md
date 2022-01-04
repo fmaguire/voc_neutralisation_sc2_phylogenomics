@@ -1,5 +1,9 @@
 # Description
 
+![image](https://user-images.githubusercontent.com/1698629/148076697-4d7dec50-4261-4fd2-bee1-3bcb72689241.png)
+
+Summary of phylogenomic methods and analyses used in this manuscript (link to follow).
+
 ## Methods
 
 Raw reads underwent adapter/quality trimming (trim-galore v0.6.5
