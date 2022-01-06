@@ -4,6 +4,9 @@
     "version": "13.1.0"
   },
   "nodes": {
+    "Ancestral_Canada/ON_ON-VIDO-01-2/2020": {
+      "clade_membership": "19A"
+    },
     "KB-B-001": {
       "clade_membership": "20H (Beta, V2)"
     },
@@ -54,10 +57,10 @@
       "clade_membership": "19A"
     },
     "NODE_0000012": {
-      "clade_annotation": "19B",
-      "clade_membership": "19B"
+      "clade_membership": "19A"
     },
     "NODE_0000013": {
+      "clade_annotation": "19B",
       "clade_membership": "19B"
     },
     "NODE_0000014": {
@@ -82,23 +85,23 @@
       "clade_membership": "19B"
     },
     "NODE_0000021": {
-      "clade_membership": "19A"
+      "clade_membership": "19B"
     },
     "NODE_0000022": {
-      "clade_annotation": "20A",
-      "clade_membership": "20A"
+      "clade_membership": "19A"
     },
     "NODE_0000023": {
+      "clade_annotation": "20A",
       "clade_membership": "20A"
     },
     "NODE_0000024": {
       "clade_membership": "20A"
     },
     "NODE_0000025": {
-      "clade_annotation": "21A (Delta)",
-      "clade_membership": "21A (Delta)"
+      "clade_membership": "20A"
     },
     "NODE_0000026": {
+      "clade_annotation": "21A (Delta)",
       "clade_membership": "21A (Delta)"
     },
     "NODE_0000027": {
@@ -135,10 +138,10 @@
       "clade_membership": "21A (Delta)"
     },
     "NODE_0000038": {
-      "clade_annotation": "21I (Delta)",
-      "clade_membership": "21I (Delta)"
+      "clade_membership": "21A (Delta)"
     },
     "NODE_0000039": {
+      "clade_annotation": "21I (Delta)",
       "clade_membership": "21I (Delta)"
     },
     "NODE_0000040": {
@@ -190,10 +193,10 @@
       "clade_membership": "21I (Delta)"
     },
     "NODE_0000056": {
-      "clade_annotation": "21J (Delta)",
-      "clade_membership": "21J (Delta)"
+      "clade_membership": "21I (Delta)"
     },
     "NODE_0000057": {
+      "clade_annotation": "21J (Delta)",
       "clade_membership": "21J (Delta)"
     },
     "NODE_0000058": {
@@ -428,7 +431,7 @@
       "clade_membership": "21J (Delta)"
     },
     "NODE_0000135": {
-      "clade_membership": "20A"
+      "clade_membership": "21J (Delta)"
     },
     "NODE_0000136": {
       "clade_membership": "20A"
@@ -497,10 +500,10 @@
       "clade_membership": "20A"
     },
     "NODE_0000158": {
-      "clade_annotation": "20C",
-      "clade_membership": "20C"
+      "clade_membership": "20A"
     },
     "NODE_0000159": {
+      "clade_annotation": "20C",
       "clade_membership": "20C"
     },
     "NODE_0000160": {
@@ -516,20 +519,20 @@
       "clade_membership": "20C"
     },
     "NODE_0000164": {
-      "clade_membership": "20C"
-    },
-    "NODE_0000165": {
       "clade_annotation": "21C (Epsilon)",
       "clade_membership": "21C (Epsilon)"
+    },
+    "NODE_0000165": {
+      "clade_membership": "20C"
     },
     "NODE_0000166": {
       "clade_membership": "20C"
     },
     "NODE_0000167": {
-      "clade_annotation": "20H (Beta, V2)",
-      "clade_membership": "20H (Beta, V2)"
+      "clade_membership": "20C"
     },
     "NODE_0000168": {
+      "clade_annotation": "20H (Beta, V2)",
       "clade_membership": "20H (Beta, V2)"
     },
     "NODE_0000169": {
@@ -539,7 +542,7 @@
       "clade_membership": "20H (Beta, V2)"
     },
     "NODE_0000171": {
-      "clade_membership": "20C"
+      "clade_membership": "20H (Beta, V2)"
     },
     "NODE_0000172": {
       "clade_membership": "20C"
@@ -599,7 +602,7 @@
       "clade_membership": "20C"
     },
     "NODE_0000191": {
-      "clade_membership": "20A"
+      "clade_membership": "20C"
     },
     "NODE_0000192": {
       "clade_membership": "20A"
@@ -617,10 +620,11 @@
       "clade_membership": "20A"
     },
     "NODE_0000197": {
-      "clade_membership": "20A"
+      "clade_annotation": "20E (EU1)",
+      "clade_membership": "20E (EU1)"
     },
     "NODE_0000198": {
-      "clade_membership": "20A"
+      "clade_membership": "20E (EU1)"
     },
     "NODE_0000199": {
       "clade_membership": "20A"
@@ -632,13 +636,16 @@
       "clade_membership": "20A"
     },
     "NODE_0000202": {
-      "clade_membership": "20A"
+      "clade_annotation": "21H (Mu)",
+      "clade_membership": "21H (Mu)"
     },
     "NODE_0000203": {
-      "clade_membership": "20A"
+      "clade_annotation": "21M (Omicron)",
+      "clade_membership": "21M (Omicron)"
     },
     "NODE_0000204": {
-      "clade_membership": "20A"
+      "clade_annotation": "21K (Omicron)",
+      "clade_membership": "21K (Omicron)"
     },
     "NODE_0000205": {
       "clade_membership": "20A"
@@ -650,16 +657,13 @@
       "clade_membership": "20A"
     },
     "NODE_0000208": {
-      "clade_annotation": "21H (Mu)",
-      "clade_membership": "21H (Mu)"
+      "clade_membership": "20A"
     },
     "NODE_0000209": {
-      "clade_annotation": "21M (Omicron)",
-      "clade_membership": "21M (Omicron)"
+      "clade_membership": "20A"
     },
     "NODE_0000210": {
-      "clade_annotation": "21K (Omicron)",
-      "clade_membership": "21K (Omicron)"
+      "clade_membership": "20A"
     },
     "NODE_0000211": {
       "clade_membership": "20A"
@@ -674,11 +678,10 @@
       "clade_membership": "20A"
     },
     "NODE_0000215": {
-      "clade_annotation": "20E (EU1)",
-      "clade_membership": "20E (EU1)"
+      "clade_membership": "20A"
     },
     "NODE_0000216": {
-      "clade_membership": "20E (EU1)"
+      "clade_membership": "20A"
     },
     "NODE_0000217": {
       "clade_membership": "20A"
@@ -699,10 +702,10 @@
       "clade_membership": "20A"
     },
     "NODE_0000223": {
-      "clade_annotation": "20B",
-      "clade_membership": "20B"
+      "clade_membership": "20A"
     },
     "NODE_0000224": {
+      "clade_annotation": "20B",
       "clade_membership": "20B"
     },
     "NODE_0000225": {
@@ -730,11 +733,11 @@
       "clade_membership": "20B"
     },
     "NODE_0000233": {
-      "clade_annotation": "20J (Gamma, V3)",
-      "clade_membership": "20J (Gamma, V3)"
+      "clade_membership": "20B"
     },
     "NODE_0000234": {
-      "clade_membership": "20B"
+      "clade_annotation": "20J (Gamma, V3)",
+      "clade_membership": "20J (Gamma, V3)"
     },
     "NODE_0000235": {
       "clade_membership": "20B"
@@ -743,26 +746,26 @@
       "clade_membership": "20B"
     },
     "NODE_0000237": {
-      "clade_annotation": "20I (Alpha, V1)",
-      "clade_membership": "20I (Alpha, V1)"
+      "clade_membership": "20B"
     },
     "NODE_0000238": {
+      "clade_annotation": "20I (Alpha, V1)",
       "clade_membership": "20I (Alpha, V1)"
     },
     "NODE_0000239": {
       "clade_membership": "20I (Alpha, V1)"
     },
     "NODE_0000240": {
-      "clade_membership": "20B"
+      "clade_membership": "20I (Alpha, V1)"
     },
     "NODE_0000241": {
       "clade_membership": "20B"
     },
     "NODE_0000242": {
-      "clade_annotation": "20D",
-      "clade_membership": "20D"
+      "clade_membership": "20B"
     },
     "NODE_0000243": {
+      "clade_annotation": "20D",
       "clade_membership": "20D"
     },
     "NODE_0000244": {
@@ -772,7 +775,7 @@
       "clade_membership": "20D"
     },
     "NODE_0000246": {
-      "clade_membership": "20B"
+      "clade_membership": "20D"
     },
     "NODE_0000247": {
       "clade_membership": "20B"
@@ -838,6 +841,9 @@
       "clade_membership": "20B"
     },
     "NODE_0000268": {
+      "clade_membership": "20B"
+    },
+    "NODE_0000269": {
       "clade_membership": "20B"
     },
     "Wuhan/Hu-1/2019": {

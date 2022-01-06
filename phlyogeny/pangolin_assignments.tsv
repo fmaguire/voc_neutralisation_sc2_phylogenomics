@@ -1,4 +1,5 @@
 taxon,lineage,conflict,ambiguity_score,scorpio_call,scorpio_support,scorpio_conflict,version,pangolin_version,pangoLEARN_version,pango_version,status,note
+Ancestral_Canada/ON_ON-VIDO-01-2/2020,B,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
 Wuhan/Hu-1/2019,B,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
 Wuhan/WH01/2019,B,,,,,,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,Assigned from designation hash.
 hCoV-19/England/LIVE-DDA6C4/2021|2021-01-10|2021-01-25,A.23.1,,,A.23.1-like+E484K,1.000000,0.000000,PANGO-v1.2.105,3.1.17,2021-12-06,v1.2.105,passed_qc,scorpio call: Alt alleles 13; Ref alleles 0; Amb alleles 0; Oth alleles 0

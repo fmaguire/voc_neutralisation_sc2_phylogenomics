@@ -3,7 +3,7 @@ set -euo pipefail
 
 #wget -O data/problematic_sites_sarsCov2.vcf https://raw.githubusercontent.com/W-L/ProblematicSites_SARS-CoV2/master/problematic_sites_sarsCov2.vcf
 
-#cat ../genomes/*.fasta seqs/root_seqs.fasta seqs/open_context_genomes.fasta > seqs/all_consensus.fasta
+cat ../genomes/*.fasta seqs/ancestral.fna seqs/root_seqs.fasta seqs/open_context_genomes.fasta > seqs/all_consensus.fasta
 
 mkdir -p augur
 # mask problematic sites and start/end from defaults in ncov

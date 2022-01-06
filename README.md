@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/1698629/148076697-4d7dec50-4261-4fd2-bee1-3bcb72689241.png)
 
-Summary of phylogenomic methods and analyses used in this manuscript (link to follow).
+Summary of phylogenomic methods and analyses used in "Immunogenicity of convalescent and vaccinated sera against clinical isolates of ancestral SARS-CoV-2, Beta, Delta, and Omicron variants"
 
 ## Methods
 
